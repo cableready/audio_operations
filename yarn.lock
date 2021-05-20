@@ -116,9 +116,9 @@
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
 "@types/node@*":
-  version "15.0.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.0.2.tgz#51e9c0920d1b45936ea04341aa3e2e58d339fb67"
-  integrity sha512-p68+a+KoxpoB47015IeYZYRrdqMUcpbK8re/zpFB8Ld46LHC1lPEbp3EXgkEhAYEcPvjJF6ZO+869SQ0aH1dcA==
+  version "15.0.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-15.0.3.tgz#ee09fcaac513576474c327da5818d421b98db88a"
+  integrity sha512-/WbxFeBU+0F79z9RdEOXH4CsDga+ibi5M8uEYr91u3CkT/pdWcV8MCook+4wDPnZBexRdwWS+PiVZ2xJviAzcQ==
 
 "@types/unist@^2.0.0", "@types/unist@^2.0.2":
   version "2.0.3"
@@ -300,9 +300,10 @@ braces@^3.0.1:
   dependencies:
     fill-range "^7.0.1"
 
-"cable_ready@https://github.com/marcoroth/cable_ready#add-operations":
-  version "4.5.0"
-  resolved "https://github.com/marcoroth/cable_ready#952838a278a8b263d11b961f813c0ea848663894"
+cable_ready@5.0.0-pre0:
+  version "5.0.0-pre0"
+  resolved "https://registry.yarnpkg.com/cable_ready/-/cable_ready-5.0.0-pre0.tgz#eeca1305f83e06ada44d95690c073df084719fef"
+  integrity sha512-hBeCg2wjfa4PSfNo6uHaVTVgTDi0wPUqBBf/pJpAoEjj94BVVLShGnBIe3n0I/f4FClcOQePd8CXl8p2hDj2bw==
   dependencies:
     morphdom "^2.6.1"
 
@@ -1831,7 +1832,7 @@ prelude-ls@~1.1.2:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
   integrity sha1-IZMqVJ9eUv/ZqCf1cOBL5iqX2lQ=
 
-prettier-standard@^16.1.0:
+prettier-standard@^16.4.1:
   version "16.4.1"
   resolved "https://registry.yarnpkg.com/prettier-standard/-/prettier-standard-16.4.1.tgz#964e7e3f3029427ab8e01bdffb72dea9a87f62c8"
   integrity sha512-IW3Sct4GOdqc1s4+1HZjH2HegzLZQ6mDMl2xz6i6KHCac7kCM+obLbvm2e0zp8PytKkLQCdOpj0cWWa48Ruetw==

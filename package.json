@@ -16,10 +16,10 @@
     "prettier-standard:format": "yarn run prettier-standard *.js **/*.js"
   },
   "dependencies": {
-    "cable_ready": "https://github.com/marcoroth/cable_ready#add-operations"
+    "cable_ready": "5.0.0-pre0"
   },
   "devDependencies": {
-    "prettier-standard": "^16.1.0"
+    "prettier-standard": "^16.4.1"
   },
   "publishConfig": {
     "access": "public"
