@@ -16,7 +16,7 @@
     "prettier-standard:format": "yarn run prettier-standard *.js **/*.js"
   },
   "peerDependencies": {
-    "cable_ready": ">= 5.0.0-pre0 <6"
+    "cable_ready": "^5.0.0"
   },
   "devDependencies": {
     "prettier-standard": "^16.4.1"
